@@ -1,1 +1,1 @@
-SE348 exercise
+SE346 exercise
